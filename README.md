@@ -1,5 +1,4 @@
 📄 Project Tagline
-
 “I Fed My CV to an LLM — and It Answered Questions About Me!”
 
 💡 Project Description
