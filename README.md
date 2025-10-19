@@ -1,5 +1,5 @@
 📄 Project Tagline
-  - “I Fed My CV to an LLM — and It Answered Questions About Me!”
+  - **I Fed My CV to an LLM — and It Answered Questions About Me!**
 
 💡 Project Description
   - This project demonstrates how to build a Retrieval-Augmented Generation (RAG) Agent using LangGraph.
