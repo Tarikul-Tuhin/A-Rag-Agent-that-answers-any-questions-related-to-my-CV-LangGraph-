@@ -1,9 +1,9 @@
 ## 📄 Project Tagline
-*I Fed My CV to an LLM — and It Answered Questions About Me!*
+*I Fed My CV to an LLM, and It Answered Questions About Me!*
 
 ## 💡 Project Description
   - This project demonstrates how to build a Retrieval-Augmented Generation (RAG) Agent using LangGraph.
-The RAG agent can read and understand your PDF documents — in this case, my CV — and answer questions related to its content.
+The RAG agent can read and understand any PDF documents, in this case, my CV, and it answer questions related to its content.
 
   - You can also feed any PDF into this system and query it using just a few lines of code provided in this repository.
 
