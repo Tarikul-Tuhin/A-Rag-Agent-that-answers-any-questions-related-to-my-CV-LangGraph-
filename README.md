@@ -1,7 +1,7 @@
-##📄 Project Tagline
-  - *I Fed My CV to an LLM — and It Answered Questions About Me!*
+## 📄 Project Tagline
+*I Fed My CV to an LLM — and It Answered Questions About Me!*
 
-##💡 Project Description
+## 💡 Project Description
   - This project demonstrates how to build a Retrieval-Augmented Generation (RAG) Agent using LangGraph.
 The RAG agent can read and understand your PDF documents — in this case, my CV — and answer questions related to its content.
 
@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/184b041f-ab23-4241-9f79-f2ad9007f100
 <img width="1225" height="147" alt="Screenshot 2025-10-18 at 5 02 28 PM" src="https://github.com/user-attachments/assets/fe373ef3-de81-4bee-bce3-41e73e1dce5a" />
 <img width="1225" height="319" alt="Screenshot 2025-10-18 at 4 00 48 PM" src="https://github.com/user-attachments/assets/130e9425-5e35-4b80-bb17-0edb37e74b9a" />
 
-# Please feel free to cross-check my CV with the outputs that LLM provides above. Here is the CV -> 
+*Please feel free to cross-check my CV with the outputs that LLM provides above. Here is the CV* -> 
   - Name: A_Flutter_Developer_cv_Tarikul_Islam.pdf
   - Link: https://github.com/Tarikul-Tuhin/A-Rag-Agent-that-answers-any-questions-related-to-my-CV-LangGraph-/blob/main/A_Flutter_Developer_cv_Tarikul_Islam.pdf
 
