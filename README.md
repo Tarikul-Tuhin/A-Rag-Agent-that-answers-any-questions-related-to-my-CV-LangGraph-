@@ -35,6 +35,5 @@ Please feel free to cross-check my CV with the outputs that LLM provides above. 
   - GoogleGenerativeAIEmbeddings – To create text embeddings
 
 ## 🧑‍💻 Author
-Tarikul Islam
-Learning Flutter from the inside out
+Tarikul Islam<br>
 Contact me on LinkedIn -> https://www.linkedin.com/in/tarikul-islam-a2785118a
