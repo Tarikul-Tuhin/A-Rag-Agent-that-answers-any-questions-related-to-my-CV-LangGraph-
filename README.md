@@ -34,7 +34,7 @@ Please feel free to cross-check my CV with the outputs that LLM provides above. 
   - ChromaDB – For vector storage and retrieval
   - GoogleGenerativeAIEmbeddings – To create text embeddings
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Tarikul Islam
 Learning Flutter from the inside out
 Contact me on LinkedIn -> https://www.linkedin.com/in/tarikul-islam-a2785118a
